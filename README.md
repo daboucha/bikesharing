@@ -17,7 +17,7 @@ In the first report, we can observe a live count of the number of bikes used, nu
 
 ![Report_2](assets/report_2.png)
 
-The report is also dynamic, and can be filtered by starting station, start time, customer type, gender, and birth year. 
+The report is also dynamic, and can be filtered by starting station, start time, customer type, gender, and birth year. These filters can help narrow the differences between the city of New York and Des Moines, and what can be expected in the new demographic.
 
 ![Report_3](assets/report_3.png)
 
